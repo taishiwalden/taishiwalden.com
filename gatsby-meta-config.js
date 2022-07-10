@@ -18,13 +18,13 @@
 /** @type {MetaConfig} */
 const metaConfig = {
   title: "Taishi Walden",
-  description: `Ed's Blog`,
+  description: `Taishi's Website`,
   author: "Taishi Walden",
-  siteUrl: "https://gatsby-starter-apple.netlify.app",
+  siteUrl: "https://taishi-walden-site.netlify.app",
   lang: "en",
   utterances: "sungik-choi/gatsby-starter-apple-comment",
   links: {
-    github: "https://github.com/sungik-choi/gatsby-starter-apple",
+    github: "https://github.com/taishiwalden/taishiwalden.com",
   },
   favicon: "src/images/icon.png",
 }
