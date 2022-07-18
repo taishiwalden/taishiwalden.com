@@ -7,7 +7,7 @@ I have a passion for project management, digital product design, and front-end s
 ---
 
 <details>
-  <summary>💻 What am I'm working on?</summary>
+  <summary>🏡 What am I'm working on?</summary>
 
 - `V3.0` of my [Personal Website](https://taishiwalden.com/)
 - `V1.0`of a web application for my [Web Design agency](https://visneto.webflow.io/)
@@ -18,7 +18,7 @@ I have a passion for project management, digital product design, and front-end s
 <br>
 
 <details>
-  <summary>🧠 What am I <s>good</s> decent at?</summary>
+  <summary>📚 What am I <s>good</s> decent at?</summary>
 
 1. Project Management
 2. Web Design and Development
@@ -38,7 +38,7 @@ I have a passion for project management, digital product design, and front-end s
 <br>
 
 <details>
-  <summary>🎯 What are my goals this year?</summary>
+  <summary>🚧 What are my goals this year?</summary>
 
 - [x] Go backpacking in the Olympic National Park
 - [x] Travel around Eastern Europe
