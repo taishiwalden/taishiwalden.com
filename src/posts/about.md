@@ -2,35 +2,56 @@
 
 My name is Taishi.
 
-I have a passion for project management, digital product design, and front-end software development.
+I have a passion for project management, digital product design, and front-end software development. I'm currently looking for job opportunities!
+
+---
 
 <details>
-  <summary>💻 Click to see what I'm working on...</summary>
+  <summary>💻 What am I'm working on?</summary>
 
-- V3.0 of my [personal website](https://taishiwalden.com/)
-- A web application for [Visneto](https://visnetomedia.com/)
-- V2.0 of project [Mappa](https://mappa.news/)
-- A website for my [pressure washing business](https://seattleoutdoorservices.com/)
+- `V3.0` of my [Personal Website](https://taishiwalden.com/)
+- `V1.0`of a web application for my [Web Design agency](https://visneto.webflow.io/)
+- `V2.0` of my startup idea [Mappa News](https://mappa.news/)
+- `V1.0` of the website for my [Pressure Washing business](https://seattleoutdoorservices.com/)
 </details>
 <br>
 <br>
 
 <details>
-  <summary>🧠 Click to see what I'm good at...</summary>
+  <summary>🧠 What am I <s>good</s> decent at?</summary>
 
-- Web Design & Development
-- Data Structures & Algorithms
-- Digital Marketing & SEO
-- Google Analytics & Data Visualization
+1. Project Management
+2. Web Design and Development
+3. Data Structures and Algorithms
+4. Digital Marketing and SEO
+5. Google Analytics and Data Visualization
+
+| **_Technical Skills_** | **_Art Technology_** |   **_Other Tools_** |
+| ---------------------- | :------------------: | ------------------: |
+| HTML, CSS, JavaScript  |     Illustrator      |    Google Workspace |
+| React                  |      Photoshop       | Wordpress & Webflow |
+| Python (NumPy)         |   Figma & Adobe XD   |         Data Studio |
+| Heroku, Netlify, AWS   |        Canva         |    Google Analytics |
+
 </details>
 <br>
+<br>
 
-##### 🎯 Goals for 2022:
+<details>
+  <summary>🎯 What are my goals this year?</summary>
 
-- [ ] Complete 3 certifications on [FreeCodeCamp](https://www.freecodecamp.org/taishi)
-- [ ] Create a full stack web application
+- [x] Go backpacking in the Olympic National Park
+- [x] Go backpacking in Eastern Europe
+- [x] Complete FCC's [Responsive Web Design](https://www.freecodecamp.org/taishi) certification
+- [x] Complete FCC's [Data Structures & Algorithms](https://www.freecodecamp.org/taishi) certification
+- [ ] Complete FCC's [Front-End Development Libraries](https://www.freecodecamp.org/taishi) certification
+- [ ] Build a full stack web application
 - [ ] Complete the N4 [JLPT Exam](https://www.jlpt.jp/e/certificate/)
 
-When I'm not behind my laptop, you'll find me boxing, reading, hiking, taking photos, or otherwise exploring the Pacific Northwest and beyond.
+</details>
+
+---
+
+When I'm not behind my laptop, you'll find me boxing, hiking, taking photos, or otherwise exploring the Pacific Northwest and beyond.
 
 Interested in my other projects? Visit my [Github](https://github.com/sungik-choi/gatsby-starter-apple).

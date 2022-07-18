@@ -26,7 +26,7 @@ const metaConfig = {
   links: {
     github: "https://github.com/taishiwalden/taishiwalden.com.git",
   },
-  favicon: "src/images/icon.png",
+  favicon: "src/images/TW-favicon.png",
 }
 
 // eslint-disable-next-line no-undef
