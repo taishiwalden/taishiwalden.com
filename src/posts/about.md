@@ -41,7 +41,7 @@ I have a passion for project management, digital product design, and front-end s
   <summary>🎯 What are my goals this year?</summary>
 
 - [x] Go backpacking in the Olympic National Park
-- [x] Go backpacking in Eastern Europe
+- [x] Travel around Eastern Europe
 - [x] Complete FCC's [Responsive Web Design](https://www.freecodecamp.org/taishi) certification
 - [x] Complete FCC's [Data Structures & Algorithms](https://www.freecodecamp.org/taishi) certification
 - [ ] Complete FCC's [Front-End Development Libraries](https://www.freecodecamp.org/taishi) certification
