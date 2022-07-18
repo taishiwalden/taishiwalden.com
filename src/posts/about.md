@@ -1,8 +1,8 @@
-# Hello 👋
+# Hello 🐨
 
 My name is Taishi.
 
-I have a passion for project management, digital product design, and front-end software development. I'm currently looking for job opportunities!
+I have a passion for project management, digital product design, and front-end software development.
 
 ---
 
@@ -47,6 +47,7 @@ I have a passion for project management, digital product design, and front-end s
 - [ ] Complete FCC's [Front-End Development Libraries](https://www.freecodecamp.org/taishi) certification
 - [ ] Build a full stack web application
 - [ ] Complete the N4 [JLPT Exam](https://www.jlpt.jp/e/certificate/)
+- [ ] Start my career!
 
 </details>
 
