@@ -7,6 +7,14 @@ thumbnail: "./images/visneto-app/visneto-app-project.jpeg"
 alt: "Image of a nightlife app mockup on Adobe XD software"
 ---
 
-## Visneto App
+## Context
 
-🍎
+I started a startup with the idea of simplifying nightlife. After conducting some market research and competitive analysis, I determined there was an opportunity for market entry.
+
+> Nightlife made simple. Discover scenes in your area and connect with friends.
+
+## Skills
+
+- Figma
+- Adobe XD
+- Adobe Illustrator

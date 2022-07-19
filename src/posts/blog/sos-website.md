@@ -17,6 +17,8 @@ After discussing his goals for Seattle Outdoor Services's online presence, I det
 
 I built a 4-page marketing website consisting of a home, about, services, and contact page and connected the [github repository](https://github.com/taishiwalden/seattle-outdoor-services) to Netlify for continuous deployment. I implemented Google Analytics tracking code and built a Data Studio Dashboard to interpret website performance in an easy work.
 
+### View the live project: [seattleoutdoorservices.com](https://www.seattleoutdoorservices.com/)
+
 ## Skills
 
 - HTML
