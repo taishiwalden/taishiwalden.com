@@ -7,7 +7,11 @@ thumbnail: "./images/gnc-site/gnc-site.jpg"
 alt: "Screenshot of the homepage of a cafe website."
 ---
 
-## Cafe Website
+<img src="./images/gnc-site/gnc-site.jpg"
+     alt="Screenshot of the homepage of a cafe website."
+     style="border-radius: 5px;" />
+
+## Context
 
 A local cafe needed a way to reach more customers and easily allow for people to order online.
 

@@ -7,6 +7,10 @@ thumbnail: "./images/visneto-site/visneto-site.jpg"
 alt: "Screenshot of the homepage of a website design agency."
 ---
 
-## Website Design Agency
+<img src="./images/visneto-site/visneto-site.jpg"
+     alt="Screenshot of the homepage of a website design agency."
+     style="border-radius: 5px;" />
+
+## Context
 
 🍎
