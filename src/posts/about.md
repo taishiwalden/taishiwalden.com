@@ -4,8 +4,6 @@ My name is Taishi.
 
 I have a passion for project management, digital product design, and front-end software development.
 
-<img src="./images/about-img.png" alt="Screenshot of the homepage of a cafe website." style="border-radius: 5px;" />
-
 ---
 
 <details>
