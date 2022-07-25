@@ -23,6 +23,12 @@ The team also created custom content (digital assets), as well as a Google My Bu
 
 ### View the live project: [goodneighboreats.com](https://www.goodneighboreats.com/)
 
+I added Google Analytics to the site and connected the data to Google Data Studio, where I build a custom performance report so the cafe owner could easily track the business's online conversions and web traffic. It enables them to quickly understand how effective their digital marketing ads are working on a bi-weekly and monthly basis.
+
+<img src="./images/gnc-site/gnc-analytics.jpeg"
+     alt="A google data studio dashboard with Good Neighbor Cafe's digital marketing information"
+     style="border-radius: 5px;" />
+
 ## Skills
 
 - WordPress

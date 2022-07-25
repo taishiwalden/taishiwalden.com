@@ -13,7 +13,7 @@ alt: "Image of a nightlife app mockup on Adobe XD software."
 
 ## Context
 
-I designed a startup with the idea of simplifying nightlife. After conducting market research on the competitive landscape, I determined there was an opportunity for market entry. Click to [view the competitive research document](https://docs.google.com/document/d/13YnPX6wSgrjIdE4Fig8tTYTOWOQOVVJAI6RuyzcWJNI/edit?usp=sharing)
+I designed a startup with the idea of simplifying nightlife. After conducting market research on the competitive landscape, I determined there was an opportunity for market entry. Click to [view the competitive research document](https://docs.google.com/document/d/13YnPX6wSgrjIdE4Fig8tTYTOWOQOVVJAI6RuyzcWJNI/edit?usp=sharing).
 
 <img src="./images/visneto-app/Visneto-App-BCG-Matrix.jpg"
      alt="Image of competitve analysis matrix on Visneto App competitors: Yelp, Zagat, Food52, Thrillist, DateNite, TryCobble."
