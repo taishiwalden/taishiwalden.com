@@ -13,9 +13,15 @@ alt: "Image of a nightlife app mockup on Adobe XD software."
 
 ## Context
 
-I cofounded a startup with the idea of simplifying nightlife. After conducting some market research and competitive analysis, I determined there was an opportunity for market entry.
+I designed a startup with the idea of simplifying nightlife. After conducting market research on the competitive landscape, I determined there was an opportunity for market entry. Click to [view the competitive research document](https://docs.google.com/document/d/13YnPX6wSgrjIdE4Fig8tTYTOWOQOVVJAI6RuyzcWJNI/edit?usp=sharing)
+
+<img src="./images/visneto-app/Visneto-App-BCG-Matrix.jpg"
+     alt="Image of competitve analysis matrix on Visneto App competitors: Yelp, Zagat, Food52, Thrillist, DateNite, TryCobble."
+     style="border-radius: 5px;" />
 
 > Nightlife made simple. Discover scenes in your area and connect with friends.
+
+Once identifying the leaders, challengers, niche players, and visionaries in the industry, I began compiling data on strengths, weaknesses, and features to help direct the product design.
 
 ## Skills
 
