@@ -18,13 +18,13 @@ I have a passion for project management, digital product design, and front-end s
 <br>
 
 <details>
-  <summary>📚 What am I <s>good</s> decent at?</summary>
+  <summary>📚 What am I <s>excellent</s> decent at?</summary>
 
 1. Project Management
-2. Web Design and Development
+2. Web Development
 3. Data Structures and Algorithms
-4. Digital Marketing and SEO
-5. Google Analytics and Data Visualization
+4. Digital Marketing
+5. Analytics and Data Visualization
 
 | **_Technical Skills_** | **_Art Technology_** |   **_Other Tools_** |
 | ---------------------- | :------------------: | ------------------: |
@@ -43,7 +43,7 @@ I have a passion for project management, digital product design, and front-end s
 - [x] Go backpacking in the Olympic National Park
 - [x] Travel around Eastern Europe
 - [x] Complete FCC's [Responsive Web Design](https://www.freecodecamp.org/taishi) certification
-- [x] Complete FCC's [Data Structures & Algorithms](https://www.freecodecamp.org/taishi) certification
+- [ ] Complete FCC's [Data Structures & Algorithms](https://www.freecodecamp.org/taishi) certification
 - [ ] Complete FCC's [Front-End Development Libraries](https://www.freecodecamp.org/taishi) certification
 - [ ] Build a full stack web application
 - [ ] Complete the N4 [JLPT Exam](https://www.jlpt.jp/e/certificate/)
