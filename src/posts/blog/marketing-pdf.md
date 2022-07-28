@@ -33,7 +33,7 @@ The interactive PDF included the following topics:
 > Depending on your business' goals, strategy can be attending local events, networking events, business expos, etc.
 > The goal is to start making yourself and your business a known part of the local business community. Get to know your fellow business owners and potential clients.
 
-## Here is the full PDF: [Click to download the PDF](https://visneto.webflow.io/)
+## Here is the full PDF: <a href="./images/marketing-pdf/Visneto_Marketing_Guide_2021.pdf">Click to download the PDF</a>
 
 ## Skills
 
