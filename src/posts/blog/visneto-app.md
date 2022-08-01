@@ -23,13 +23,19 @@ I designed a startup with the idea of simplifying nightlife. After conducting ma
 
 Once identifying the leaders, challengers, niche players, and visionaries in the industry, I began compiling data on strengths, weaknesses, and features to help direct the product design.
 
+### User Welcome
+
 <img src="./images/visneto-app/welcome.jpg"
      alt="Image of 4 mockup welcome screens for visneto app users"
      style="border-radius: 5px;" />
 
+### User Onboarding
+
 <img src="./images/visneto-app/onboard.jpg"
      alt="Showcase of the onboarding process for visneto app users"
      style="border-radius: 5px;" />
+
+### User Stories
 
 <img src="./images/visneto-app/user-stories.jpg"
      alt="Iphone mockup of visneto's nightlife app that allows users to explore venues, discover what is popular on a heat map, and to join communities."
