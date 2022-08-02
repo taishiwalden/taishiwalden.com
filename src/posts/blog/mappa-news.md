@@ -37,7 +37,7 @@ This prompted the creation of [Mappa](https://www.mappa.news/about): utilizing g
      alt="Screenshot of a Mappa news article depicting the first 12 major cities to go underwater due to climate change on an interactive map."
      style="border-radius: 5px;" />
 
-> There is little doubt our oceans are rising and cities will go under. It is no longer an issue of if but when. [View the Underwater Cities article here](https://www.mappa.news/seven-world-wonders).
+> There is little doubt our oceans are rising and cities will go under. It is no longer an issue of if but when. [View the Underwater Cities article here](https://www.mappa.news/underwater-cities).
 
 ### Documentation
 
@@ -46,6 +46,65 @@ Although Mappa was initially built with the idea of giving visual learners more 
 <img src="./images/mappa-news/mappa-docs-1.jpg"
      alt="Screenshot of the Documentation section I created for Mappa, allowing users to create these maps themselves."
      style="border-radius: 5px;" />
+
+#### HTML Template
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>My First Mappa Map!</title>
+    <link
+      href="http://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link rel="stylesheet" href="index.css" />
+    <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+    <script src="https://unpkg.com/scrollama"></script>
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.0/mapbox-gl.js"></script>
+    <link
+      href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.4.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="map"></div>
+    <div id="story"></div>
+  </body>
+</html>
+```
+
+#### JavaScript Template
+
+```js
+var config = {
+    style: "mapbox://styles/taishiwalden/ckzovzbqj000714qnd5m3cdcm", //TODO
+    accessToken: "pk.eyJ1IjoidGFpc2hpd2FsZGVuIiwiYSI6ImNrcXkzaWJvbzE0Zzgyd21mZHVjNDBvYmIifQ.E2__hXdmUMAPh2zjvGjJgw", //TODO
+    title: "ADD TITLE", //TODO
+    subtitle: "ADD SUBTITLE", //TODO
+    byline: "By ADD NAME", //TODO
+    footer: "©2022 ADD NAME",
+    showMarkers: false,
+    theme: "light",
+    alignment: "left",
+    chapters: [
+        //ADD LOCATION INFORMATION
+        {
+            id: "48d352fe5c88b29680f9ce8d7a233191",
+            title: "ADD TITLE",
+            description:
+                "ADD DESCRIPTION",
+            location: {
+                center: [72.823, 23.852],
+                zoom: 2.26,
+                pitch: 0,
+                bearing: 0,
+            },
+        },
+     ]
+```
 
 ### Analytics
 
