@@ -1,8 +1,6 @@
-# Hello 🐨
+# Hi I'm Taishi 🐨
 
-My name is Taishi.
-
-I have a passion for project management, digital product design, and front-end software development.
+I have a passion for project management, digital product design, and software development. My skills are wide ranging, spanning across multiple creative and technical disciplines. I absorb information like a sponge and I am in constant pursuit of skills that can help me develop into a well rounded professional.
 
 ---
 
@@ -12,7 +10,7 @@ I have a passion for project management, digital product design, and front-end s
 - `V3.0` of my [Personal Website](https://taishiwalden.com/)
 - `V1.0`of a web application for my [Web Design agency](https://visneto.webflow.io/)
 - `V2.0` of my startup idea [Mappa News](https://mappa.news/)
-- `V1.0` of the website for my [Pressure Washing business](https://seattleoutdoorservices.com/)
+
 </details>
 <br>
 <br>
@@ -26,12 +24,12 @@ I have a passion for project management, digital product design, and front-end s
 4. Digital Marketing
 5. Analytics and Data Visualization
 
-| **_Technical Skills_** | **_Art Technology_** |   **_Other Tools_** |
-| ---------------------- | :------------------: | ------------------: |
-| HTML, CSS, JavaScript  |     Illustrator      |    Google Workspace |
-| React                  |      Photoshop       | Wordpress & Webflow |
-| Python (NumPy)         |   Figma & Adobe XD   |         Data Studio |
-| Heroku, Netlify, AWS   |        Canva         |    Google Analytics |
+| **_Technical Skills_** | **_Art Technology_** | **_Other Tools_** |
+| ---------------------- | :------------------: | ----------------: |
+| HTML, CSS, JavaScript  |     Illustrator      |  Google Workspace |
+| React                  |      Photoshop       |               CMS |
+| Python (NumPy)         |   Figma & Adobe XD   |       Data Studio |
+| Heroku, Netlify, AWS   |        Canva         |  Google Analytics |
 
 </details>
 <br>
