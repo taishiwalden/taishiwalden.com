@@ -13,9 +13,9 @@ alt: "Screenshot of the homepage of a website design agency."
 
 ## Context
 
-While legacy monolith architectures–like WordPress–have been a long-standing mainstay of many large organizations, development teams may find that the tightly coupled architecture and the use of legacy coding languages like PHP create more complexity and result in slow site performance.
+My web design agency's website was initially build using WordPress, however after learning about various CMS development platforms, I was intrigued by one in particular called [Webflow](https://webflow.com/). WordPress's extensive need for plugins and maintenance time pushed me to explore different options with more design freedom.
 
-I used this opportunity to migrate my web design's company website to a platform that also has powerful CMS and hosting features that WordPress has. Enter [Webflow](https://webflow.com/). Hosting our website on Webflow removed the requirement for monthly maintenance retainers that were associated with our old Wordpress site.
+I used this opportunity to migrate my web design's company website to a webflow - which also boasts powerful CMS and hosting features that WordPress has. Hosting our website on Webflow removed the requirement for monthly maintenance retainers that were associated with our old Wordpress site. In addition, it has more native SEO tools to make adjustments on pages/images/assets which makes it really convenient.
 
 Not to mention, the old website lacked an aesthetic design and semantic layout necessary for a proper landing page. While it adhered to traditional website structure, it was time for a revamp.
 
