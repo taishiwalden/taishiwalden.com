@@ -25,7 +25,7 @@ This prompted the creation of [Mappa](https://www.mappa.news/about): utilizing g
      alt="Screenshot of a Mappa news article describing the Belt and Road Initiative with an interactive map."
      style="border-radius: 5px;" />
 
-> Readers can scroll on their device to move the map to the next point of interest and read about the Belt and Road Initiative and affiliated parties.
+> China’s President Xi Jinping unveiled The Initiative in 2013, and it is often referred to as one of the most ambitious infrastructure projects ever conceived.. [View the BRI article here](https://www.mappa.news/belt-and-road-initiative).
 
 <img src="./images/mappa-news/mappa-seven-world-wonders.jpg"
      alt="Screenshot of a Mappa news article showcasing the 7 world wonders on an interactive map."
