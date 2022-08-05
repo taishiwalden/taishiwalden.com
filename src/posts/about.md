@@ -7,9 +7,9 @@ I am passionate about project management, digital product design, and software d
 <details>
   <summary>🏡 What am I'm working on?</summary>
 
-- `V3.0` of my [Personal Website](https://taishiwalden.com/)
-- `V1.0`of a web application for my [Web Design agency](https://visneto.webflow.io/)
-- `V2.0` of my startup idea [Mappa News](https://mappa.news/)
+- `Internship` at [Kahana](https://kahana.co/)
+- `Data Structures & Algorithms` Certifitcation on FreeCodeCamp
+- `Flutter` Application on Google Developers
 
 </details>
 <br>
