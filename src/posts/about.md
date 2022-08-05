@@ -1,6 +1,6 @@
 # Hi I'm Taishi 🐨
 
-I have a passion for project management, digital product design, and software development. My skills are wide ranging, spanning across multiple creative and technical disciplines. I absorb information like a sponge and I am in constant pursuit of skills that can help me develop into a well rounded professional.
+I am passionate about project management, digital product design, and software development. My skills are wide-ranging, spanning multiple creative and technical disciplines. I absorb information like a sponge and am constantly pursuing abilities that can help me develop into a well-rounded professional.
 
 ---
 
