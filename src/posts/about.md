@@ -16,7 +16,7 @@ I am passionate about project management, digital product design, and software d
 <br>
 
 <details>
-  <summary>📚 What am I <s>excellent</s> decent at?</summary>
+  <summary>📚 What am I <s>excellent</s> good at?</summary>
 
 1. Project Management
 2. Web Development
