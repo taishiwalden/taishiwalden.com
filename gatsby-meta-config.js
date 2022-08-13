@@ -20,11 +20,11 @@ const metaConfig = {
   title: "Taishi Walden",
   description: `Taishi's Website`,
   author: "Taishi Walden",
-  siteUrl: "https://taishi-walden-site.netlify.app",
+  siteUrl: "https://taishiwalden.com/",
   lang: "en",
   utterances: "sungik-choi/gatsby-starter-apple-comment",
   links: {
-    github: "https://github.com/taishiwalden/taishiwalden.com.git",
+    github: "https://github.com/taishiwalden",
     linkedin: "https://www.linkedin.com/in/taishiwalden/",
   },
   favicon: "src/images/TW-favicon.png",

@@ -53,4 +53,4 @@ I am passionate about project management, digital product design, and software d
 
 When I'm not behind my laptop, you'll find me boxing, hiking, taking photos, or otherwise exploring the Pacific Northwest and beyond.
 
-Interested in my other projects? Visit my [Github](https://github.com/sungik-choi/gatsby-starter-apple).
+Interested in my other projects? Visit my [Github](https://github.com/taishiwalden).
