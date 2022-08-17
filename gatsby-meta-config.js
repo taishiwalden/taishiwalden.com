@@ -18,7 +18,7 @@
 /** @type {MetaConfig} */
 const metaConfig = {
   title: "Taishi Walden",
-  description: `Taishi's Website`,
+  description: `Hi, I'm Taishi! I am passionate about project management, digital product design, and software development.`,
   author: "Taishi Walden",
   siteUrl: "https://taishiwalden.com/",
   lang: "en",
