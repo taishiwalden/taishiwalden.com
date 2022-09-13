@@ -46,7 +46,7 @@ I am passionate about business, digital product design, and software development
 - [ ] Build a full stack web application
 - [x] Finish my internship at [Kahana](https://kahana.co/)
 - [ ] Complete the N4 [JLPT Exam](https://www.jlpt.jp/e/certificate/)
-- [x] Start my career!
+- [x] Start my career
 
 </details>
 
