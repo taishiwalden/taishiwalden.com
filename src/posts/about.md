@@ -1,15 +1,15 @@
 # Hi I'm Taishi 🐨
 
-I am passionate about project management, digital product design, and software development. My skills are wide-ranging, spanning multiple creative and technical disciplines. I absorb information like a sponge and am constantly pursuing abilities that can help me develop into a well-rounded professional.
+I am passionate about business, digital product design, and software development. My skills are wide-ranging, spanning multiple creative and technical disciplines. I absorb information like a sponge and am constantly pursuing abilities that can help me develop into a well-rounded professional.
 
 ---
 
 <details>
   <summary>🏡 What am I'm working on?</summary>
 
-- `Internship` at [Kahana](https://kahana.co/)
-- `Data Structures & Algorithms` Certifitcation on FreeCodeCamp
-- `Flutter` Application on Google Developers
+- `Business Analysis` at [Forum](https://forumsolutionsllc.com/)
+- `Front End Dev` Certification on FreeCodeCamp
+- `Flutter` Mobile App for [Mappa](https://mappa.news/)
 
 </details>
 <br>
@@ -24,12 +24,12 @@ I am passionate about project management, digital product design, and software d
 4. Digital Marketing
 5. Analytics and Data Visualization
 
-| **_Technical Skills_** | **_Art Technology_** | **_Other Tools_** |
-| ---------------------- | :------------------: | ----------------: |
-| HTML, CSS, JavaScript  |     Illustrator      |  Google Workspace |
-| React                  |      Photoshop       |               CMS |
-| Python (NumPy)         |   Figma & Adobe XD   |       Data Studio |
-| Heroku, Netlify, AWS   |        Canva         |  Google Analytics |
+| **_Technical Skills_** |  **_Art Tech_**  | **_Other Tools_** |
+| ---------------------- | :--------------: | ----------------: |
+| HTML, CSS, JS          |   Illustrator    |  Google Workspace |
+| React                  |    Photoshop     |  Microsoft Office |
+| Python (NumPy)         | Figma & Adobe XD |       Data Studio |
+| Heroku, Netlify, AWS   |      Canva       |  Google Analytics |
 
 </details>
 <br>
@@ -41,11 +41,12 @@ I am passionate about project management, digital product design, and software d
 - [x] Go backpacking in the Olympic National Park
 - [x] Travel around Eastern Europe
 - [x] Complete FCC's [Responsive Web Design](https://www.freecodecamp.org/taishi) certification
-- [ ] Complete FCC's [Data Structures & Algorithms](https://www.freecodecamp.org/taishi) certification
+- [x] Complete FCC's [Data Structures & Algorithms](https://www.freecodecamp.org/taishi) certification
 - [ ] Complete FCC's [Front-End Development Libraries](https://www.freecodecamp.org/taishi) certification
 - [ ] Build a full stack web application
+- [x] Finish my internship at [Kahana](https://kahana.co/)
 - [ ] Complete the N4 [JLPT Exam](https://www.jlpt.jp/e/certificate/)
-- [ ] Start my career!
+- [x] Start my career!
 
 </details>
 
