@@ -26,6 +26,7 @@ const metaConfig = {
   links: {
     github: "https://github.com/taishiwalden",
     linkedin: "https://www.linkedin.com/in/taishiwalden/",
+    photography: "https://unsplash.com/@taishiwalden",
   },
   favicon: "src/images/TW-favicon.png",
 }
