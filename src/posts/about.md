@@ -7,28 +7,28 @@ I am passionate about business, digital product design, and software development
 <details>
   <summary>🏡 What am I'm working on?</summary>
 
-- `Business Analysis` at [Forum](https://forumsolutionsllc.com/)
-- `Front End Dev` Certification on FreeCodeCamp
-- `Flutter` Mobile App for [Mappa](https://mappa.news/)
+- Working full-time as a `Business Consultant` at [Forum](https://forumsolutionsllc.com/)
+- Building a `Media Site` called Joto News
+- Developing a `Flutter Mobile App` for my startup idea, [Mappa](https://master--mappanews.netlify.app/)
 
 </details>
 <br>
 <br>
 
 <details>
-  <summary>📚 What am I <s>excellent</s> good at?</summary>
+  <summary>📚 What am I <s>excellent</s> great at?</summary>
 
 1. Project Management
-2. Web Development
-3. Data Structures and Algorithms
+2. Product Management
+3. Software Engineering
 4. Digital Marketing
-5. Analytics and Data Visualization
+5. Data Visualization
 
 | **_Technical Skills_** |  **_Art Tech_**  | **_Other Tools_** |
 | ---------------------- | :--------------: | ----------------: |
 | HTML, CSS, JS          |   Illustrator    |  Google Workspace |
 | React                  |    Photoshop     |  Microsoft Office |
-| Python (NumPy)         | Figma & Adobe XD |       Data Studio |
+| Python                 | Figma & Adobe XD |       Data Studio |
 | Heroku, Netlify, AWS   |      Canva       |  Google Analytics |
 
 </details>
@@ -46,12 +46,11 @@ I am passionate about business, digital product design, and software development
 - [ ] Build a full stack web application
 - [x] Finish my internship at [Kahana](https://kahana.co/)
 - [ ] Complete the N4 [JLPT Exam](https://www.jlpt.jp/e/certificate/)
-- [x] Start my career
 
 </details>
 
 ---
 
-When I'm not behind my laptop, you'll find me boxing, hiking, taking photos, or otherwise exploring the Pacific Northwest and beyond.
+When I'm not behind my laptop, you'll find me boxing, hiking, [taking photos](https://unsplash.com/@taishiwalden), or otherwise exploring the Pacific Northwest and beyond.
 
 Interested in my other projects? Visit my [Github](https://github.com/taishiwalden).
