@@ -2,7 +2,7 @@
 title: "Creative Marketing Werx"
 category: "WordPress"
 date: "2023-03-15 12:00:00 +09:00"
-desc: "Built a local cafe's website on WordPress."
+desc: "Developed a Custom Marketing Website."
 thumbnail: "./images/cmw/CMW-Graphic-1.jpg"
 alt: "Layout Mockup of the custom merchandising business's website."
 ---
