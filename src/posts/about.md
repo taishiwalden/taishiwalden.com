@@ -11,9 +11,9 @@ I am passionate about business, digital product design, and software development
 <details>
   <summary>🏡 What am I'm working on?</summary>
 
-- Working full-time as a `Business Consultant` at [Forum](https://forumsolutionsllc.com/)
-- Building a `Media Site` called Joto News
-- Developing a `Flutter Mobile App` for my startup idea, [Mappa](https://master--mappanews.netlify.app/)
+- Working as a `Business Consultant` at [Forum](https://forumsolutionsllc.com/)
+- Building a `Media Site` called [Joto News](https://jotonews.com/)
+- Developing a `Mobile App` for my startup idea, [Mappa](https://master--mappanews.netlify.app/)
 
 </details>
 <br>
