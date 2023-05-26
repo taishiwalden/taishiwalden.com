@@ -2,7 +2,7 @@
 
 I am passionate about business, digital product design, and software development. My skills are wide-ranging, spanning multiple creative and technical disciplines. I absorb information like a sponge and am constantly pursuing abilities that can help me develop into a well-rounded professional.
 
-<img src="src/posts/blog/images/about-img.png" 
+<img src="https://github.com/taishiwalden/my-blog-starter/blob/fdf351d41cce25cf6dca52ac4afa0fe0af9fb4ef/src/posts/taishiwalden.jpeg" 
      alt="Taishi Walden Image"
      style="border-radius: 5px;" />
 
