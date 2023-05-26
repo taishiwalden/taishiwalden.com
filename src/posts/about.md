@@ -1,6 +1,10 @@
 # Hi I'm Taishi 🐨
 
-I am passionate about business, digital product design, and software development. My skills are wide-ranging, spanning multiple creative and technical disciplines. I absorb information like a sponge and am constantly pursuing abilities that can help me develop into a well-rounded professional.
+I am passionate about business, digital product design, and software development. My skills are wide-ranging, spanning multiple creative and technical disciplines. I absorb information like a sponge and am constantly pursuing abilities that can help me develop into a well-rounded professional. src/posts/blog/images/about-img.png
+
+<img src="src/posts/blog/images/about-img.png" 
+     alt="Taishi Walden Image"
+     style="border-radius: 5px;" />
 
 ---
 
