@@ -1,6 +1,6 @@
 # Hi I'm Taishi 🐨
 
-I am passionate about business, digital product design, and software development. My skills are wide-ranging, spanning multiple creative and technical disciplines. I absorb information like a sponge and am constantly pursuing abilities that can help me develop into a well-rounded professional.
+I am passionate about Technology Trends, Design, and Product Management. My skills are wide-ranging, spanning multiple creative and technical disciplines. I absorb information like a sponge and am constantly pursuing abilities that can help me develop into a well-rounded professional.
 
 <!-- <img src="https://github.com/taishiwalden/my-blog-starter/blob/fdf351d41cce25cf6dca52ac4afa0fe0af9fb4ef/src/posts/taishiwalden.jpeg"
      alt="Taishi Walden Image"
@@ -12,7 +12,7 @@ I am passionate about business, digital product design, and software development
   <summary>🏡 What am I'm working on?</summary>
 
 - Working as a `Business Consultant` at [Forum](https://forumsolutionsllc.com/)
-- Building a `Media Site` called [Joto News](https://jotonews.com/)
+- Building a `Website` called [Taishi's AI Repository](https://aitaishi.netlify.app/)
 - Developing a `Mobile App` for my startup idea, [Mappa](https://master--mappanews.netlify.app/)
 
 </details>
@@ -24,7 +24,6 @@ I am passionate about business, digital product design, and software development
 
 1. Project Management
 2. Product Management
-3. Software Engineering
 4. Digital Marketing
 5. Data Visualization
 

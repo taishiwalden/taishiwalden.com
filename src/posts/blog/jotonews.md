@@ -42,7 +42,7 @@ Our mission is to provide you with the latest news and insights on business, car
 
 - Implemented search engine optimization (SEO) techniques to enhance the website's visibility and organic search rankings.
 
-### View the live project: [jotonews.com](https://www.jotonews.com/)
+### The site is no longer live
 
 ## Skills
 
