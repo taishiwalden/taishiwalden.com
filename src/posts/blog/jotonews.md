@@ -1,7 +1,7 @@
 ---
 title: "Joto News"
 category: "Webflow"
-date: "2023-05-16 12:00:00 +09:00"
+date: "2023-05-05 12:00:00 +09:00"
 desc: "Developed a fully functional a Media Site with User Management."
 thumbnail: "./images/joto-news/JotoNewsHome.jpg"
 alt: "Screenshot of the Joto News Media Site Home Page."

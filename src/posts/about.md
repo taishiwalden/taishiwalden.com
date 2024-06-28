@@ -1,6 +1,8 @@
 # Hi I'm Taishi 🐨
 
-I am passionate about Technology Trends, Design, and Product Management. My skills are wide-ranging, spanning multiple creative and technical disciplines. I absorb information like a sponge and am constantly pursuing abilities that can help me develop into a well-rounded professional.
+I'm interested by emerging tech, art, and all things design. My skills are wide-ranging, spanning multiple creative and technical disciplines. I absorb information like a sponge and am constantly pursuing abilities that can help me develop into a well-rounded professional.
+
+When I'm not behind my laptop, you'll find me weightlifting, hiking, hanging out with friends,  [taking photos](https://unsplash.com/@taishiwalden), or otherwise exploring the Pacific Northwest and beyond.
 
 <!-- <img src="https://github.com/taishiwalden/my-blog-starter/blob/fdf351d41cce25cf6dca52ac4afa0fe0af9fb4ef/src/posts/taishiwalden.jpeg"
      alt="Taishi Walden Image"
@@ -11,49 +13,53 @@ I am passionate about Technology Trends, Design, and Product Management. My skil
 <details>
   <summary>🏡 What am I'm working on?</summary>
 
-- Working as a `Business Consultant` at [Forum](https://forumsolutionsllc.com/)
-- Building a `Website` called [Taishi's AI Repository](https://aitaishi.netlify.app/)
+- I'm working full-time as a `Consultant` at [Forum Solutions LLC](https://forumsolutionsllc.com/)
+- And slowly but surely building a `Website` called [Taishi's AI Repository](https://aitaishi.netlify.app/)
+
+<!--
 - Developing a `Mobile App` for my startup idea, [Mappa](https://master--mappanews.netlify.app/)
+-->
 
 </details>
 <br>
 <br>
 
 <details>
-  <summary>📚 What am I <s>excellent</s> great at?</summary>
+  <summary>📚 What am I <s>excellent</s> decent at?</summary>
 
 1. Project Management
 2. Product Management
-4. Digital Marketing
-5. Data Visualization
+3. Data Visualization
 
 | **_Technical Skills_** |  **_Art Tech_**  | **_Other Tools_** |
 | ---------------------- | :--------------: | ----------------: |
 | HTML, CSS, JS          |   Illustrator    |  Google Workspace |
 | React                  |    Photoshop     |  Microsoft Office |
 | Python                 | Figma & Adobe XD |       Data Studio |
-| Heroku, Netlify, AWS   |      Canva       |  Google Analytics |
+| Heroku, Netlify, AWS   |      Canva       |  Google Analytics 4 |
 
 </details>
 <br>
 <br>
 
 <details>
-  <summary>🚧 What are my goals this year?</summary>
+  <summary>🚧 What are my goals in 2024?</summary>
 
 - [x] Go backpacking in the Olympic National Park
+- [ ] Build a full stack web application
+- [ ] Complete the N2 [JLPT Exam](https://www.jlpt.jp/e/certificate/)
+
+<!--
 - [x] Travel around Eastern Europe
 - [x] Complete FCC's [Responsive Web Design](https://www.freecodecamp.org/taishi) certification
-- [x] Complete FCC's [Data Structures & Algorithms](https://www.freecodecamp.org/taishi) certification
-- [ ] Complete FCC's [Front-End Development Libraries](https://www.freecodecamp.org/taishi) certification
-- [ ] Build a full stack web application
+- [x] Complete FCC's [Data Structures & Algorithms](https://www.freecodecamp.org/taishi) 
+certification
 - [x] Finish my internship at [Kahana](https://kahana.co/)
-- [ ] Complete the N4 [JLPT Exam](https://www.jlpt.jp/e/certificate/)
+- [ ] Complete FCC's [Front-End Development Libraries](https://www.freecodecamp.org/taishi) certification
+-->
 
 </details>
 
 ---
-
-When I'm not behind my laptop, you'll find me boxing, hiking, [taking photos](https://unsplash.com/@taishiwalden), or otherwise exploring the Pacific Northwest and beyond.
 
 Interested in my other projects? Visit my [Github](https://github.com/taishiwalden).
