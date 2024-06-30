@@ -1,8 +1,8 @@
 ---
-title: "Visneto App"
+title: "Visneto Nightlife App Design"
 category: "Design"
 date: "2023-05-17 12:00:00 +09:00"
-desc: "Designed a high-fidelity prototype for a nightlife app."
+desc: "Designed a high-fidelity prototype for a nightlife startup called Visneto."
 thumbnail: "./images/visneto-app/visneto-app-project.jpeg"
 alt: "Image of a nightlife app mockup on Adobe XD software."
 ---

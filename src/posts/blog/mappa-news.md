@@ -1,9 +1,9 @@
 ---
-title: "Mappa News"
+title: "Mapbox API Web Application"
 category: "Code"
 date: "2023-05-20 12:00:00 +09:00"
 desc: "Minimum Viable Product for a startup idea called Mappa."
-thumbnail: "./images/mappa-news/mappa-news-project.jpg"
+thumbnail: "./images/mappa-news/Mappa-Thumbnail.jpg"
 alt: "Image of website mockup on a desktop for a startup that allows you to view global events on a map."
 ---
 
