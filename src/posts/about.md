@@ -1,8 +1,17 @@
-# Hi I'm Taishi 🐨
+# Hey, I'm Taishi 👋🏼
 
-I'm interested by emerging tech, art, and all things design. My skills are wide-ranging, spanning multiple creative and technical disciplines. I absorb information like a sponge and am constantly pursuing abilities that can help me develop into a well-rounded professional.
+My friends describe me as rambunctious yet disciplined, but more importantly, a life enthusiast. I bring a winning mentality and diligent work ethic, and strive to promote a culture where compassion and collaboration thrive.
 
-When I'm not behind my laptop, you'll find me weightlifting, hiking, hanging out with friends,  [taking photos](https://unsplash.com/@taishiwalden), or otherwise exploring the Pacific Northwest and beyond.
+After graduating from the University of Washington in May 2022, I joined [Forum Solutions](https://www.forumsolutionsllc.com/), a management consulting firm, as an Analyst, to help organizations solve complex problems with better data, clearer information, and the tools necessary to bring projects to the finish line.
+
+During the first two years, I had the opportunity to work with one of the world's largest apparel brands, with roles spanning agile product development, change management, and ERP system implementations across multiple geographies. I was swiftly promoted to Associate Consultant, where I've delved deeper into technology and retail verticals.
+
+I believe technology has amazing potential to help us improve the world. Pursuing this potential has shaped me into an effective product manager and strategist. In each role I take on, my focus remains on ensuring that business endeavors and outcomes align with a greater purpose and make a tangible difference in people's lives.
+
+How we work together is just as crucial as what we accomplish, and I believe that empathy, radical transparency, and teamwork are fundamental in fostering strong working relationships.
+
+I believe mindfulness is key to success. A tenet I pursue through my interests in weightlifting, hiking, [taking photos](https://unsplash.com/@taishiwalden), and exploring the Pacific Northwest and beyond. I love chatting with anyone working on anything interesting, so [don’t hesitate to reach out](https://www.linkedin.com/in/taishiwalden/)! I'd love to explore opportunities to collaborate. 
+
 
 <!-- <img src="https://github.com/taishiwalden/my-blog-starter/blob/fdf351d41cce25cf6dca52ac4afa0fe0af9fb4ef/src/posts/taishiwalden.jpeg"
      alt="Taishi Walden Image"
@@ -10,11 +19,25 @@ When I'm not behind my laptop, you'll find me weightlifting, hiking, hanging out
 
 ---
 
-<details>
-  <summary>🏡 What am I'm working on?</summary>
+**If you've made it this far, thanks for visiting my personal website!**
 
-- I'm working full-time as a `Consultant` at [Forum Solutions LLC](https://forumsolutionsllc.com/)
-- And slowly but surely building a `Website` called [Taishi's AI Repository](https://aitaishi.netlify.app/)
+Below you'll find a collection of miscellaneous things I find interesting.
+
+<details>
+  <summary>🏡 Quotes I love</summary>
+
+> **Action is the antidote to anxiety.**
+>  You're not afraid of the future if you're moving yourself toward it. Do something. Anything. You'll feel better. – Chris Williamson
+
+> **The World's Full Of Lonely People Afraid To Make The First Move.** - Tony Lip
+
+> **Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind.** - Bernard Baruch
+
+> **Your weirdness is your competitive advantage.**
+>  No one can beat you at being you. Embrace your tramas, life experiences, scars, funny accent, whatever it is. This is what sets you apart. The weirder you are, the more unique, competitive, and interesting you are. - Chris Williamson
+
+<!-- - I'm working full-time as a `Consultant` at [Forum Solutions LLC](https://forumsolutionsllc.com/)
+- And slowly but surely building a `Website` called [Taishi's AI Repository](https://aitaishi.netlify.app/) -->
 
 <!--
 - Developing a `Mobile App` for my startup idea, [Mappa](https://master--mappanews.netlify.app/)
@@ -36,7 +59,7 @@ When I'm not behind my laptop, you'll find me weightlifting, hiking, hanging out
 | HTML, CSS, JS          |   Illustrator    |  Google Workspace |
 | React                  |    Photoshop     |  Microsoft Office |
 | Python                 | Figma & Adobe XD |       Data Studio |
-| Heroku, Netlify, AWS   |      Canva       |  Google Analytics 4 |
+| Heroku, Netlify, AWS   |      Canva       |  Google Analytics |
 
 </details>
 <br>
