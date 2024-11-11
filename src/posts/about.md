@@ -10,7 +10,7 @@ I believe technology has amazing potential to help us improve the world. Pursuin
 
 How we work together is just as crucial as what we accomplish, and I believe that empathy, radical transparency, and teamwork are fundamental in fostering strong working relationships.
 
-I believe mindfulness is key to success. A tenet I pursue through my interests in weightlifting, hiking, [taking photos](https://unsplash.com/@taishiwalden), and exploring the Pacific Northwest and beyond. I love chatting with anyone working on anything interesting, so [don’t hesitate to reach out](https://www.linkedin.com/in/taishiwalden/)! I'd love to explore opportunities to collaborate. 
+I believe mindfulness is key to success – A tenet I pursue through my interests in weightlifting, hiking, [taking photos](https://unsplash.com/@taishiwalden), and exploring the Pacific Northwest and beyond. I love chatting with anyone working on anything interesting, so don’t hesitate to [reach out](https://www.linkedin.com/in/taishiwalden/)! I'd love to explore opportunities to collaborate. 
 
 
 <!-- <img src="https://github.com/taishiwalden/my-blog-starter/blob/fdf351d41cce25cf6dca52ac4afa0fe0af9fb4ef/src/posts/taishiwalden.jpeg"
@@ -21,7 +21,7 @@ I believe mindfulness is key to success. A tenet I pursue through my interests i
 
 **If you've made it this far, thanks for visiting my personal website!**
 
-Below you'll find a collection of miscellaneous things I find interesting.
+Below you'll find a collection of miscellaneous things.
 
 <details>
   <summary>🏡 Quotes I love</summary>
