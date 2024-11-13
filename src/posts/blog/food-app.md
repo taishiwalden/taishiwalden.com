@@ -1,8 +1,8 @@
 ---
-title: "Kiuks Mobile App Prototype"
+title: "Mobile App UI & Prototype"
 category: "Design"
 date: "2024-05-30 12:00:00 +09:00"
-desc: "Designing a Mobile App for Mindful Eating."
+desc: "Designed the UI and interactive prototype for Kiuks, a mobile app tailored for individuals with restrictive diets due to allergies. The app allows users to rate restaurants based on dietary restrictions, explore menu options, and follow others to discover trusted eatery recommendations. Focused on a user-centered design to support mindful and safe dining experiences."
 thumbnail: "./images/kiuks/Kiuk-Home-page.jpeg"
 alt: "Image of an app UX mockup on Figma."
 ---
@@ -11,47 +11,40 @@ alt: "Image of an app UX mockup on Figma."
      alt=""
      style="border-radius: 5px;" />
 
-## Context
-
-Description
-
-<img src="./images/visneto-app/Visneto-App-BCG-Matrix.jpg"
-     alt=""
-     style="border-radius: 5px;" />
+## Summary
 
 > Kiuks: The Social Sharing App for Mindful Eating.
 
-Once identifying the leaders, challengers, niche players, and visionaries in the industry, I began compiling data on strengths, weaknesses, and features to help direct the product design.
+The Kiuks mobile app prototype was created to support users with restrictive diets by helping them discover safe and inclusive dining options. With this app, users can explore and rate restaurants based on specific dietary restrictions, such as allergies or lifestyle choices, ensuring they find suitable meals. The design aims to foster a community of mindful eaters who share recommendations, tips, and experiences, creating a supportive network for those with dietary restrictions.
 
-### User Welcome
-
-> "Visneto" means "Venues" in Latin.
-
-The welcome screens encapsulate the idea behind the startup-connecting young people with live music, bars, late-night eateries, and other vibrant scenes. Due to the social nature of the app, we decided it would be best to allow log in integration with popular social media and [Google One Tap](https://developers.google.com/identity/gsi/web/guides/overview).
-
-<img src="./images/visneto-app/welcome.jpg"
+<!-- <img src="./images/visneto-app/Visneto-App-BCG-Matrix.jpg"
      alt=""
-     style="border-radius: 5px;" />
-
-### User Onboarding
-
-> Discover the places your friends already love.
-
-The onboarding mockup demonstrates what is achievable with the new nightlife application. You can create an account, get notified about local events, special discounts, join community chats, and find venues your friends swear by.
-
-<img src="./images/visneto-app/onboard.jpg"
-     alt=""
-     style="border-radius: 5px;" />
+     style="border-radius: 5px;" /> -->
 
 ### User Stories
 
-> Discover new venues. Explore what's popular. Find community.
+**Allergy-Friendly Dining** – Users with food allergies (e.g., peanuts, shellfish, dairy) can rate restaurants on their allergy accommodation practices, including menu options and staff knowledge.
 
-The three core features of the Visneto app were inspired by **Yelp**, **Snapchat**, **Thrillist**, and **Strava**. You can view venue profiles and learn about the menu, prices, location, and atmosphere with additional information provided by other users. If you're out-on-the-town, you can view the heatmap of popular venues in "real-time". Lastly, the key feature is the ability to create community chats revolving on specific events and meetups.
+**Keto-Friendly Options** – People following a ketogenic diet can find and review restaurants with low-carb, high-fat menu items that align with keto requirements.
 
-<img src="./images/visneto-app/user-stories.jpg"
-     alt=""
-     style="border-radius: 5px;" />
+**Pescatarian Preferences** – Users can filter and recommend restaurants that offer high-quality pescatarian-friendly meals, helping others find sustainable and diverse fish options.
+
+**Gluten-Free Dining** – Users with gluten intolerance or Celiac disease can find restaurants with gluten-free menu items and rate the restaurant’s adherence to cross-contamination protocols.
+
+**Vegan and Vegetarian Choices** – Users seeking plant-based options can review and recommend eateries based on the variety and quality of vegan or vegetarian dishes.
+
+
+### Design Elements
+
+**Clear, Icon-Based Filters** – Filters allow users to quickly search for restaurants based on their dietary preferences (e.g., vegan, keto, gluten-free), each represented by clear, intuitive icons.
+
+**Interactive Rating System** – A ratings system lets users evaluate each restaurant’s dietary accommodations, with criteria like "allergy awareness," "menu variety," and "cross-contamination precautions."
+
+**Social and Follower Features** – Users can follow other like-minded individuals, view their restaurant recommendations, and build a community focused on safe, enjoyable dining.
+
+**Map-Based Restaurant Finder** – A location-based map displays restaurants that meet users’ dietary needs, with color-coded pins indicating restriction types.
+
+The Kiuks app design prioritizes inclusivity, usability, and community support, providing a valuable resource for individuals who need or prefer specific dietary accommodations.
 
 ## Skills
 
