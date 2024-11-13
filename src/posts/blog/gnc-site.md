@@ -1,8 +1,8 @@
 ---
-title: "Good Neighbor Cafe"
+title: "Good Neighbor Café Website"
 category: "WordPress"
 date: "2022-02-14 12:00:00 +09:00"
-desc: "Built a local cafe's website on WordPress."
+desc: "Designed and developed a user-friendly website for a local café using WordPress, focusing on intuitive navigation, brand-aligned visuals, and optimized performance to enhance the café’s online presence."
 thumbnail: "./images/gnc-site/gnc-site.jpg"
 alt: "Screenshot of the homepage of a cafe website."
 ---
@@ -21,7 +21,7 @@ I was proud to manage the project with Good Neighbor Cafe on the development of 
 
 The team also created custom content (digital assets), as well as a Google My Business (GMB) integration to increase site exposure. I continue to work with Good Neighbor Cafe as their primary web and digital consultant.
 
-### View the live project: [goodneighboreats.com](https://www.goodneighboreats.com/)
+### The site is no longer live.
 
 I added Google Analytics to the site and connected the data to Google Data Studio, where I build a custom performance report so the cafe owner could easily track the business's online conversions and web traffic. It enables them to quickly understand how effective their digital marketing ads are working on a bi-weekly and monthly basis.
 

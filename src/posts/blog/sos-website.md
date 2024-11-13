@@ -1,8 +1,8 @@
 ---
-title: "Seattle Outdoor Services"
+title: "Seattle Pressure Washing Website"
 category: "Code"
 date: "2022-02-15 12:00:00 +09:00"
-desc: "Built the website for a pressure washing business."
+desc: "Created an SEO-focused website for a pressure washing business in Seattle. Implemented strategic keyword optimization to boost local search visibility, enabling potential clients to find the business online and contributing to increased revenue."
 thumbnail: "./images/sos-website/seattle-outdoor-services-project.jpg"
 alt: "Image of a outdoor services website design on a desktop screen."
 ---
