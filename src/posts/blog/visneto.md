@@ -1,6 +1,6 @@
 ---
 title: "Data Migration and Redesign"
-category: "Webflow"
+category: "WebDev"
 date: "2023-05-10 12:00:00 +09:00"
 desc: "Redesigned and developed a modern website for a website design agency, migrating their existing WordPress site to Webflow. Ensured a smooth data migration while enhancing site functionality, aesthetics, and responsiveness to better showcase their digital services."
 thumbnail: "./images/visneto-site/visneto-site.jpg"

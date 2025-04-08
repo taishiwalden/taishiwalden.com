@@ -1,6 +1,6 @@
 ---
 title: "Good Neighbor Café Website"
-category: "WordPress"
+category: "WebDev"
 date: "2022-02-14 12:00:00 +09:00"
 desc: "Designed and developed a user-friendly website for a local café using WordPress, focusing on intuitive navigation, brand-aligned visuals, and optimized performance to enhance the café’s online presence."
 thumbnail: "./images/gnc-site/gnc-site.jpg"

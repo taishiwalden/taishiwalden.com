@@ -66,7 +66,7 @@ Below you'll find a collection of miscellaneous things.
 <br>
 
 <details>
-  <summary>🚧 What are my goals in 2024?</summary>
+  <summary>🚧 What are my goals in 2025?</summary>
 
 - [x] Go backpacking in the Olympic National Park
 - [ ] Build a full stack web application

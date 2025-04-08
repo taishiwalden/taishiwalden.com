@@ -24,8 +24,6 @@ const metaConfig = {
   lang: "en",
   utterances: "sungik-choi/gatsby-starter-apple-comment",
   links: {
-    github: "https://github.com/taishiwalden",
-    linkedin: "https://www.linkedin.com/in/taishiwalden/",
     photography: "https://unsplash.com/@taishiwalden",
   },
   favicon: "src/images/TW-favicon.png",

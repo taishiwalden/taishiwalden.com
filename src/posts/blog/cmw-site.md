@@ -1,6 +1,6 @@
 ---
 title: "Creative Marketing Werx Redesign"
-category: "WordPress"
+category: "WebDev"
 date: "2023-03-15 12:00:00 +09:00"
 desc: "Redesigned the website and digital storefront for a custom branding company specializing in merchandise for small businesses. Focused on a clean, professional layout to enhance user experience and effectively showcase their unique branding services."
 thumbnail: "./images/cmw/CMW-Graphic-1.jpg"

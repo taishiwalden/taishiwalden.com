@@ -1,6 +1,6 @@
 ---
 title: "Mapbox API Web Application"
-category: "Code"
+category: "WebDev"
 date: "2023-05-20 12:00:00 +09:00"
 desc: "Developed a Minimum Viable Product for a startup idea called Mappa, a startup concept focused on visualizing current events through interactive charts, graphs, and maps."
 thumbnail: "./images/mappa-news/Mappa-Thumbnail.jpg"
