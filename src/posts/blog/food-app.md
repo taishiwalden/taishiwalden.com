@@ -8,7 +8,7 @@ alt: "Image of an app UX mockup on Figma."
 ---
 
 <img src="./images/kiuks/Kiuk-Home-page.jpeg"
-     alt=""
+     alt="Image of an app UX mockup on Figma."
      style="border-radius: 5px;" />
 
 ## Summary
@@ -23,6 +23,10 @@ The Kiuks mobile app prototype was created to support users with restrictive die
 
 ### User Stories
 
+<img src="./images/kiuks/Kiuk-user-flow.jpg"
+     alt="Image of an app UX mockup on Figma showcasing the user sign up flow."
+     style="border-radius: 5px;" />
+
 **Allergy-Friendly Dining** – Users with food allergies (e.g., peanuts, shellfish, dairy) can rate restaurants on their allergy accommodation practices, including menu options and staff knowledge.
 
 **Keto-Friendly Options** – People following a ketogenic diet can find and review restaurants with low-carb, high-fat menu items that align with keto requirements.
@@ -35,6 +39,10 @@ The Kiuks mobile app prototype was created to support users with restrictive die
 
 
 ### Design Elements
+
+<img src="./images/kiuks/Kiuk-social-features.jpg"
+     alt="Image of an app UX mockup on Figma showcasing the social features and user profile settings."
+     style="border-radius: 5px;" />
 
 **Clear, Icon-Based Filters** – Filters allow users to quickly search for restaurants based on their dietary preferences (e.g., vegan, keto, gluten-free), each represented by clear, intuitive icons.
 
@@ -51,3 +59,4 @@ The Kiuks app design prioritizes inclusivity, usability, and community support, 
 - Figma
 - Requirements Gathering
 - Canva
+- MockMagic
