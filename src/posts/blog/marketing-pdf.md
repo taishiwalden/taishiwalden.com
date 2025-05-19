@@ -1,6 +1,6 @@
 ---
 title: "Interactive Digital Marketing PDF"
-category: "Design"
+category: "Writing"
 date: "2021-09-25 12:00:00 +09:00"
 desc: "Developed a dynamic and engaging PDF designed as a marketing asset, incorporating interactive elements to enhance user experience and improve content accessibility."
 thumbnail: "./images/marketing-pdf/digital-marketing-pdf.jpg"
@@ -11,15 +11,17 @@ alt: "Screenshot of the homepage of a website design agency."
      alt="Image showing the first page of the digital marketing pdf created by Taishi Walden for Visneto Media."
      style="border-radius: 5px;" />
 
+## View the PDF here: <a href="./images/marketing-pdf/Visneto_Marketing_Guide_2021.pdf">Click to download the PDF</a>
+
 ## Context
 
-After getting certified in: Google Digital Marketing & SEO, Hubspot Inbound Marketing, Advanced Google Analytics, and Facebook Social Media Ads, I decided to compile my knowledge on digital marketing into an "easy-to-digest" document. This marketing asset was used in the inbound marketing campaign for [Visneto](https://visneto.webflow.io), allowing people to download the document by entering their email.
+After becoming certified in: Google Digital Marketing & SEO, Hubspot Inbound Marketing, Advanced Google Analytics, and Facebook Social Media Ads, I compiled my digital marketing knowledge into an "easily digestable" format. This marketing asset was used in the inbound marketing campaign for [Visneto](https://visneto.webflow.io), allowing people to utilize the resource by providing their email.
 
 <img src="./images/marketing-pdf/marketing-pdf-1.jpg"
      alt="A page in the marketing pdf that demonstrates what you will learn and how to navigate the interactivity."
      style="border-radius: 5px;" />
 
-The interactive PDF included the following topics:
+The interactive PDF includes the following topics:
 
 ### Inbound Marketing & Building an Audience
 
@@ -48,8 +50,6 @@ The interactive PDF included the following topics:
 <img src="./images/marketing-pdf/marketing-pdf-congrats.jpg"
      alt="The last page congratulating readers on their new skills and a page of references on additional resources."
      style="border-radius: 5px;" />
-
-## Here is the full PDF: <a href="./images/marketing-pdf/Visneto_Marketing_Guide_2021.pdf">Click to download the PDF</a>
 
 ### Affiliate Links
 
