@@ -11,7 +11,9 @@ alt: "Image of a outdoor services website design on a desktop screen."
      alt="Image of a outdoor services website design on a desktop screen."
      style="border-radius: 5px;" />
 
-## Context
+### View the live project: [seattleoutdoorservices.com](https://www.seattleoutdoorservices.com/)
+
+## Summary
 
 Seattle Outdoor Services is a premier provider of power washing, landscaping, and home improvement services and serves the local Seattle area. I worked directly with the owner, [Kyle Gray](https://www.linkedin.com/in/kyleandrewgray/), to design and develop a site that best represented their brand, mission, and business.
 
@@ -30,8 +32,6 @@ For streamlining online customer communications, I integrated the contact form w
 <img src="./images/sos-website/streamlined-email-notifications.jpeg"
      alt="Image of a outdoor services website home page with the notification badges from email from customer contacts."
      style="border-radius: 5px;" />
-
-### View the live project: [seattleoutdoorservices.com](https://www.seattleoutdoorservices.com/)
 
 ## Skills
 

@@ -11,7 +11,7 @@ alt: "Image of a nightlife app mockup on Adobe XD software."
      alt="Image of a nightlife app mockup on Adobe XD software"
      style="border-radius: 5px;" />
 
-## Context
+## Summary
 
 I designed a startup (with a team of 4) with the idea of simplifying nightlife. After conducting market research on the competitive landscape, we determined there was an opportunity for market entry. Click to [view the competitive research document](https://docs.google.com/document/d/13YnPX6wSgrjIdE4Fig8tTYTOWOQOVVJAI6RuyzcWJNI/edit?usp=sharing).
 

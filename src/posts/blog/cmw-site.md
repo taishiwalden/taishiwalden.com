@@ -11,7 +11,9 @@ alt: "Layout Mockup of the custom merchandising business's website."
      alt="Layout Mockup of the custom merchandising business's website."
      style="border-radius: 5px;" />
 
-## Context
+### View the live project: [creativemarketingwerx.com](https://www.creativemarketingwerx.com/)
+
+## Summary
 
 Creative Marketing Werx is a woman-owned agency that specializes in providing branded merchandise solutions to help their customers' brands shine. With over 20 years of experience, the agency prides itself on delivering exceptional customer service. To enhance their online presence and showcase their expertise, the agency embarked on a website redesign project. This case study highlights the process and outcomes of the website redesign, which was developed using WordPress and a drag-and-drop editor.
 
@@ -68,8 +70,6 @@ The website redesign for Creative Marketing Werx successfully achieved the follo
 - Increased Conversion Opportunities: The strategically placed call-to-action buttons and optimized content encourage visitors to take desired actions, resulting in improved lead generation and conversion rates.
 
 - Empowered Website Management: The drag-and-drop editor in WordPress enables the client to easily update and expand the website's content without requiring extensive technical knowledge or external assistance.
-
-### View the live project: [creativemarketingwerx.com](https://www.creativemarketingwerx.com/)
 
 ## Skills
 

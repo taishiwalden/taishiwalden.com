@@ -11,7 +11,9 @@ alt: "Image of website mockup on a desktop for a startup that allows you to view
      alt="Image of website mockup on a desktop for a startup that allows you to view global events on a map."
      style="border-radius: 5px;" />
 
-## Context
+## View the live project: [Mappa News](https://mappanews.netlify.app/)
+
+## Summary
 
 According to [Learning Theory Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=587201), nearly **65% of the general population are visual learners**, meaning they need to see information in order to retain it.
 
@@ -54,8 +56,6 @@ To measure the popularity of the project, I used **Google Analytics** to track w
 <img src="./images/mappa-news/mappa-analytics.jpg"
      alt="Image of a data analytics dashboard containing digital marketing insights about Mappa News."
      style="border-radius: 5px;" />
-
-## View the live project: [Mappa News](https://mappanews.netlify.app/)
 
 ## Skills
 

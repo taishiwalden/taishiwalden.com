@@ -13,7 +13,7 @@ alt: "Screenshot of the homepage of a website design agency."
 
 ## View the PDF here: <a href="./images/marketing-pdf/Visneto_Marketing_Guide_2021.pdf">Click to download the PDF</a>
 
-## Context
+## Summary
 
 After becoming certified in: Google Digital Marketing & SEO, Hubspot Inbound Marketing, Advanced Google Analytics, and Facebook Social Media Ads, I compiled my digital marketing knowledge into an "easily digestable" format. This marketing asset was used in the inbound marketing campaign for [Visneto](https://visneto.webflow.io), allowing people to utilize the resource by providing their email.
 
