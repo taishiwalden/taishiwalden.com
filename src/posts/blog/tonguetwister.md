@@ -1,6 +1,6 @@
 ---
 title: "Tongue Twista – A Retro-Inspired Web Game Built in Hours"
-category: "AI Coding"
+category: "AI"
 date: "2024-02-15 12:00:00 +09:00"
 desc: "Tongue Twista is a fast-paced web game I built in just a few hours using Lovable.Dev — a platform for rapidly building small creative projects with minimal code overhead. The game is a randomized deck of 30 cards, each featuring a different tongue twister. "
 thumbnail: "./images/tonguetwister/tongue-twister-card-game-thumbnail.jpeg"

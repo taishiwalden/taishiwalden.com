@@ -1,6 +1,6 @@
 ---
 title: "A Nostalgic Tribute Built through Prompt Engineering"
-category: "AI Coding"
+category: "AI"
 date: "2024-03-27 12:00:00 +09:00"
 draft: true
 desc: "Windows XP shaped how I first understood computers, and I’ve always loved its playful yet functional UI. I wanted to see if I could bring that experience back using today’s prompt-to-code development platforms."
