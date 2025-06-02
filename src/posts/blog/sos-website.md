@@ -15,7 +15,7 @@ alt: "Image of a outdoor services website design on a desktop screen."
 
 ## Summary
 
-Seattle Outdoor Services is a premier provider of power washing, landscaping, and home improvement services and serves the local Seattle area. I worked directly with the owner, [Kyle Gray](https://www.linkedin.com/in/kyleandrewgray/), to design and develop a site that best represented their brand, mission, and business.
+[Seattle Outdoor Services](https://www.seattleoutdoorservices.com/) is a premier provider of power washing, landscaping, and home improvement services and serves the local Seattle area. I worked directly with the owner, [Kyle Gray](https://www.linkedin.com/in/kyleandrewgray/), to design and develop a site that best represented their brand, mission, and business.
 
 > Whatever you seek to enhance, repair, or redesign, let us help.
 

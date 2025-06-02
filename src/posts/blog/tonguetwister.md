@@ -15,7 +15,7 @@ alt: "Image of Tongue Twista, the web app which allows users to try different to
 
 ## Summary
 
-Tongue Twista is a fast-paced web game I built in just a few hours using Lovable.Dev — a platform for rapidly building small creative projects with minimal code overhead. The game is a randomized deck of 30 cards, each featuring a different tongue twister. Users swipe right (or tap the green button) if they pronounce the phrase correctly, or swipe left (red button) if they stumble over the words — keeping score as they go.
+[Tongue Twista](https://tonguetwista.netlify.app/) is a fast-paced web game I built in just a few hours using Lovable.Dev — a platform for rapidly building small creative projects with minimal code overhead. The game is a randomized deck of 30 cards, each featuring a different tongue twister. Users swipe right (or tap the green button) if they pronounce the phrase correctly, or swipe left (red button) if they stumble over the words — keeping score as they go.
 
 <img src="./images/tonguetwister/tongue-twister-card-game-thumbnail-ux.jpeg"
      alt="Image showing the features of the tongue twister card game."
