@@ -29,9 +29,9 @@ Below you'll find a collection of miscellaneous things.
 > **Action is the antidote to anxiety.**
 >  You're not afraid of the future if you're moving yourself toward it. Do something. Anything. You'll feel better. – Chris Williamson
 
-> **The World's Full Of Lonely People Afraid To Make The First Move.** - Tony Lip
+> The World's Full Of Lonely People **Afraid To Make The First Move.** - Tony Lip
 
-> **Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind.** - Bernard Baruch
+> Be who you are and say what you feel, because **those who mind don't matter** and **those who matter don't mind.** - Bernard Baruch
 
 > **Your weirdness is your competitive advantage.**
 >  No one can beat you at being you. Embrace your tramas, life experiences, scars, funny accent, whatever it is. This is what sets you apart. The weirder you are, the more unique, competitive, and interesting you are. - Chris Williamson
@@ -70,6 +70,8 @@ Below you'll find a collection of miscellaneous things.
   
 - [ ] Build a full stack web application. Track the live project [here](https://www.fiveyearplan.lovable.app)
 - [ ] Pass the N2 [JLPT Exam](https://www.jlpt.jp/e/certificate/)
+- [ ] Start a Substack for sharing my ideas and anything I find interesting
+- [ ] Complete a Hyrox Competition with a partner
 
 <!--
   <summary>🚧 What are my goals in 2025?</summary>
@@ -87,5 +89,3 @@ certification
 </details>
 
 ---
-
-Interested in my other projects? Visit my [Github](https://github.com/taishiwalden).

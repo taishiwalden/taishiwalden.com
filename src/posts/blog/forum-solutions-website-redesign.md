@@ -1,6 +1,6 @@
 ---
 title: "Company Website Redesign"
-category: "Design"
+category: "UI / UX"
 date: "2025-10-20 12:00:00 +09:00"
 desc: "Redesigned the Squarespace website for a boutique consulting firm, modernizing the layout while preserving the original branding."
 thumbnail: "./images/forumsolutions/forum-solutions-website-redesign.jpeg"

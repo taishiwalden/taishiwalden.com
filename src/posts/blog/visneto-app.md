@@ -1,6 +1,6 @@
 ---
 title: "Visneto Nightlife App Design"
-category: "Design"
+category: "UI / UX"
 date: "2023-05-17 12:00:00 +09:00"
 desc: "Designed a high-fidelity prototype for a nightlife startup called Visneto."
 thumbnail: "./images/visneto-app/visneto-app-project.jpeg"
