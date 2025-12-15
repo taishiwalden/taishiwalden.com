@@ -8,7 +8,7 @@ alt: "Image of Maeda Marbles, the web app which allows users to play a simple ma
 ---
 
 <img src="./images/maedamarbles/Maeda-Marbles-Hero.jpeg"
-     alt="Image of Tongue Twista, the web app which allows users to try different tongue twisters."
+     alt="Image of Maeda Marbles, the web app which allows users to play a simple marble game."
      style="border-radius: 5px;" />
 
 ### View the live project: [maedamarbles.netlify.app](https://maedamarbles.netlify.app/)

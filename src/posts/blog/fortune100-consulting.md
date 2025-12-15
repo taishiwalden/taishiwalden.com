@@ -1,14 +1,14 @@
 ---
-title: "Select Consulting Engagement"
+title: "Supply Chain ERP Implementation and Activation"
 category: "Consulting"
 date: "2025-10-25 12:00:00 +09:00"
 desc: "Successfully implemented and optimized a modern Enterprise Resource Planning (ERP) system for a global retailer."
 thumbnail: "./images/consulting-nike/fortune100-cover.png"
-alt: ""
+alt: "This consulting engagement was for a Fortune 100 retailer in their supply chain product management organization."
 ---
 
 <img src="./images/consulting-nike/fortune100-cover.png"
-     alt=""
+     alt="This consulting engagement was for a Fortune 100 retailer in their supply chain product management organization."
      style="border-radius: 5px;" />
 
 ## Summary
