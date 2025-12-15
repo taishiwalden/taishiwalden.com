@@ -1,6 +1,6 @@
 ---
 title: "Mobile App UI & Prototype"
-category: "UI / UX"
+category: "UI/UX"
 date: "2024-05-30 12:00:00 +09:00"
 desc: "Designed the UI and interactive prototype for Kiuks, a mobile app tailored for individuals with restrictive diets due to allergies. The app allows users to rate restaurants based on dietary restrictions, explore menu options, and follow others to discover trusted eatery recommendations. Focused on a user-centered design to support mindful and safe dining experiences."
 thumbnail: "./images/kiuks/Kiuk-Home-page.jpeg"

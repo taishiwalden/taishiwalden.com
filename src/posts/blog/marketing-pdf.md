@@ -1,6 +1,6 @@
 ---
 title: "Interactive Digital Marketing PDF"
-category: "UI / UX"
+category: "UI/UX"
 date: "2021-09-25 12:00:00 +09:00"
 desc: "Developed a dynamic and engaging PDF designed as a marketing asset, incorporating interactive elements to enhance user experience and improve content accessibility."
 thumbnail: "./images/marketing-pdf/digital-marketing-pdf.jpg"
